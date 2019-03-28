@@ -1,7 +1,7 @@
 body
 {
     font-family: nunito;
-    background: red;
+    background: #f5d9d5;
     font-size: 1.5rem;
 }
 
@@ -22,4 +22,15 @@ body
 .navbar-dark .navbar-nav .nav-link {
     color: rgba(255,255,255);
     font-weight: 200;
+}
+
+#headingGroup h1
+{
+    font-size: 4rem;
+    font-weight: 100;
+}
+
+#headingGroup span
+{
+    color: red;
 }
