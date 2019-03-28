@@ -34,3 +34,12 @@ body
 {
     color: red;
 }
+
+@media(max-width: 1200px)
+{
+    #headingGroup h1
+    {
+        font-size: 3rem;
+        font-weight: 100;
+    }
+}
